@@ -4,8 +4,14 @@ Internship project in Xeratic, a data management &amp; analytics enterprise
 ## [Xeratic](https://www.xeratic.com/)
 Xeratic is a tech company based in Indonesia specializing in data management and analytics services. The enterprise develops platforms and offers solutions to help individuals and organizations connect, process, and analyze data to make informed, data-driven decisions.
 
-## Xeratic XellR
+![xeratic logo](https://github.com/harishmuh/AI-narrative-generator-for-sales-insight/blob/main/images/Xeratic%20logo.PNG?raw=true)
+
+
+## What is 'XellR'
+
 One of the ongoing products, XellR, is a SaaS platform designed to help business owners manage, monitor, and grow their e-commerce operations across multiple sales channels. 
+
+![XellR](https://github.com/harishmuh/AI-narrative-generator-for-sales-insight/blob/main/images/Xeratic%20xellr.PNG?raw=true)
 
 XellR empowers e-commerce businesses to:
 
@@ -14,6 +20,8 @@ XellR empowers e-commerce businesses to:
 * Analyze performance across platforms
 
 * Receive actionable insights to drive revenue and improve stock efficiency
+
+![xellR](https://github.com/harishmuh/AI-narrative-generator-for-sales-insight/blob/main/images/xellr%20feature.PNG?raw=true)
 
 XellR is intended to address a critical pain point for business owners who are overwhelmed by fragmented data across e-commerce platforms. The platform streamlines these processes into three simple steps:
 
