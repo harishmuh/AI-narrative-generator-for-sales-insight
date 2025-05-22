@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+requests
+streamlit-lottie
+python-dotenv
+openai
+beautifulsoup4
