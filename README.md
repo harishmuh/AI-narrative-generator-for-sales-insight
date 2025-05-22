@@ -1,5 +1,5 @@
 # AI narrative generator for sales insight
-Internship project in at Xeratic
+Internship project at Xeratic
 
 ## [Xeratic](https://www.xeratic.com/)
 Xeratic is a tech company based in Indonesia specializing in data management and analytics services. The enterprise develops platforms and offers solutions to help individuals and organizations connect, process, and analyze data to make informed, data-driven decisions.
@@ -44,3 +44,19 @@ During this project, we:
 * Implemented prompt engineering techniques to guide GPT models in generating accurate, business-relevant insights
 * Integrated Azure OpenAI services into a prototype system
 * Delivered a proof-of-concept (PoC) AI module that converts graphs into readable summaries
+
+## Documentation
+* Chart generation
+  
+![image 1](https://github.com/harishmuh/AI-narrative-generator-for-sales-insight/blob/main/images/demo%201%20dokumentasi.PNG?raw=true)
+
+![image 2](https://github.com/harishmuh/AI-narrative-generator-for-sales-insight/blob/main/images/demo%203%20dokumentasi.PNG?raw=true)
+
+* AI insight/narrative generation
+  
+![image 3](https://github.com/harishmuh/AI-narrative-generator-for-sales-insight/blob/main/images/demo%202%20dokumentasi.PNG?raw=true)
+
+## Assets
+* [Project Presentation](https://github.com/harishmuh/AI-narrative-generator-for-sales-insight/blob/main/docs/Final%20Project%20Presentation.pdf)
+
+* [streamlit demo](https://graph-into-story.streamlit.app/) (Able to generate graph, but not to generate AI insight due to revoked access)
