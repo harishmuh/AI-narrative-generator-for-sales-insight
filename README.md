@@ -1,5 +1,5 @@
 # AI narrative generator for sales insight
-Internship project in Xeratic, a data management &amp; analytics enterprise 
+Internship project in at Xeratic
 
 ## [Xeratic](https://www.xeratic.com/)
 Xeratic is a tech company based in Indonesia specializing in data management and analytics services. The enterprise develops platforms and offers solutions to help individuals and organizations connect, process, and analyze data to make informed, data-driven decisions.
@@ -39,7 +39,7 @@ To convert important findings from sales analytics charts into textual insights 
 
 ## Technical Highlights
 During this project, we:
-* Processed and analyzed sales data from multiple sources (e.g., Tokopedia, Shopee)
+* Processed and analyzed sales data from multiple sources 
 * Developed chart-based analytics using tools such as matplotlib and plotly
 * Implemented prompt engineering techniques to guide GPT models in generating accurate, business-relevant insights
 * Integrated Azure OpenAI services into a prototype system
